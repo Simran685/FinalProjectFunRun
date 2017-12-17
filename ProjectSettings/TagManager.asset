@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - enemies
+  - bullets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Platformscene1
+    uniqueID: 2395772251
+    locked: 0
+  - name: Background
+    uniqueID: 4085582305
+    locked: 0
+  - name: BackgroundScene1
+    uniqueID: 3852930521
+    locked: 0
+  - name: Player1
+    uniqueID: 2307766803
+    locked: 0
+  - name: PlatformScene2
+    uniqueID: 1068322089
+    locked: 0
+  - name: City
+    uniqueID: 1491823241
+    locked: 0
+  - name: backgroundScene4
+    uniqueID: 1322506843
+    locked: 0
+  - name: PlatformScene4
+    uniqueID: 2646204757
+    locked: 0
+  - name: Players_9
+    uniqueID: 269781449
+    locked: 0
+  - name: backgroundScene2
+    uniqueID: 1107474153
+    locked: 0
+  - name: BackgroundScene4
+    uniqueID: 3073810369
+    locked: 0
+  - name: PlatformScene5
+    uniqueID: 1830252837
+    locked: 0
+  - name: BackgroundScene5
+    uniqueID: 900816465
+    locked: 0
+  - name: backgroundScene6
+    uniqueID: 4062004611
+    locked: 0
+  - name: backgroundImageScene6
+    uniqueID: 4153277563
+    locked: 0
+  - name: PlatformScene7
+    uniqueID: 4001044379
+    locked: 0
+  - name: backgroundScene7
+    uniqueID: 4282211767
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: exit
+    uniqueID: 690868023
+    locked: 0
